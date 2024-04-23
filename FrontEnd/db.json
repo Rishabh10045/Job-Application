@@ -1,0 +1,470 @@
+[
+    {
+        "postId": 1,
+        "postProfile": "Java Developer",
+        "postDesc": "Must have good experience in core Java and advanced Java",
+        "reqExperience": 2,
+        "postTechStack": [
+            "Core Java",
+            "J2EE",
+            "Spring Boot",
+            "Hibernate"
+        ]
+    },
+    {
+        "postId": 2,
+        "postProfile": "Frontend Developer",
+        "postDesc": "Experience in building responsive web applications using React",
+        "reqExperience": 3,
+        "postTechStack": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ]
+    },
+    {
+        "postId": 3,
+        "postProfile": "Data Scientist",
+        "postDesc": "Strong background in machine learning and data analysis",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Python",
+            "Machine Learning",
+            "Data Analysis"
+        ]
+    },
+    {
+        "postId": 4,
+        "postProfile": "Network Engineer",
+        "postDesc": "Design and implement computer networks for efficient data communication",
+        "reqExperience": 5,
+        "postTechStack": [
+            "Networking",
+            "Cisco",
+            "Routing",
+            "Switching"
+        ]
+    },
+    {
+        "postId": 5,
+        "postProfile": "Mobile App Developer",
+        "postDesc": "Experience in mobile app development for iOS and Android",
+        "reqExperience": 3,
+        "postTechStack": [
+            "iOS Development",
+            "Android Development",
+            "Mobile App"
+        ]
+    },
+    {
+        "postId": 6,
+        "postProfile": "DevOps Engineer",
+        "postDesc": "Implement and manage continuous integration and delivery pipelines",
+        "reqExperience": 4,
+        "postTechStack": [
+            "DevOps",
+            "CI/CD",
+            "Docker",
+            "Kubernetes"
+        ]
+    },
+    {
+        "postId": 7,
+        "postProfile": "UI/UX Designer",
+        "postDesc": "Create engaging user experiences and intuitive user interfaces",
+        "reqExperience": 2,
+        "postTechStack": [
+            "User Experience",
+            "User Interface Design",
+            "Prototyping"
+        ]
+    },
+    {
+        "postId": 8,
+        "postProfile": "Cybersecurity Analyst",
+        "postDesc": "Protect computer systems and networks from cyber threats",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Cybersecurity",
+            "Network Security",
+            "Incident Response"
+        ]
+    },
+    {
+        "postId": 9,
+        "postProfile": "Full Stack Developer",
+        "postDesc": "Experience in both front-end and back-end development",
+        "reqExperience": 5,
+        "postTechStack": [
+            "JavaScript",
+            "Node.js",
+            "React",
+            "Spring",
+            "MongoDB"
+        ]
+    },
+    {
+        "postId": 10,
+        "postProfile": "Cloud Architect",
+        "postDesc": "Design and implement cloud infrastructure solutions",
+        "reqExperience": 6,
+        "postTechStack": [
+            "Cloud Computing",
+            "AWS",
+            "Azure",
+            "Google Cloud"
+        ]
+    },
+    {
+        "postId": 11,
+        "postProfile": "Software Tester",
+        "postDesc": "Ensure software quality through testing and validation",
+        "reqExperience": 3,
+        "postTechStack": [
+            "Testing",
+            "JUnit",
+            "Selenium",
+            "TestNG"
+        ]
+    },
+    {
+        "postId": 12,
+        "postProfile": "React Native Developer",
+        "postDesc": "Develop cross-platform mobile applications using React Native",
+        "reqExperience": 2,
+        "postTechStack": [
+            "React Native",
+            "JavaScript",
+            "Mobile App Development"
+        ]
+    },
+    {
+        "postId": 13,
+        "postProfile": "Business Analyst",
+        "postDesc": "Analyze business processes and recommend improvements",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Business Analysis",
+            "Requirements Gathering",
+            "Process Modeling"
+        ]
+    },
+    {
+        "postId": 14,
+        "postProfile": "Embedded Systems Engineer",
+        "postDesc": "Design and develop embedded systems for hardware applications",
+        "reqExperience": 5,
+        "postTechStack": [
+            "Embedded Systems",
+            "C/C++",
+            "Microcontrollers",
+            "RTOS"
+        ]
+    },
+    {
+        "postId": 15,
+        "postProfile": "Content Writer",
+        "postDesc": "Create engaging and informative content for websites and publications",
+        "reqExperience": 2,
+        "postTechStack": [
+            "Content Writing",
+            "Copywriting",
+            "SEO",
+            "Creative Writing"
+        ]
+    },
+    {
+        "postId": 16,
+        "postProfile": "Business Intelligence Analyst",
+        "postDesc": "Utilize data to provide insights and support decision-making",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Business Intelligence",
+            "SQL",
+            "Data Warehousing",
+            "Tableau"
+        ]
+    },
+    {
+        "postId": 17,
+        "postProfile": "UX Researcher",
+        "postDesc": "Conduct user research to inform the design process",
+        "reqExperience": 3,
+        "postTechStack": [
+            "User Research",
+            "Usability Testing",
+            "Human-Computer Interaction"
+        ]
+    },
+    {
+        "postId": 18,
+        "postProfile": "Backend Developer",
+        "postDesc": "Build server-side logic and databases for web applications",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Java",
+            "Spring",
+            "Node.js",
+            "MongoDB"
+        ]
+    },
+    {
+        "postId": 19,
+        "postProfile": "Game Developer",
+        "postDesc": "Create and optimize games for various platforms",
+        "reqExperience": 3,
+        "postTechStack": [
+            "Game Development",
+            "Unity",
+            "C#",
+            "3D Modeling"
+        ]
+    },
+    {
+        "postId": 20,
+        "postProfile": "IT Project Manager",
+        "postDesc": "Lead and manage IT projects from initiation to completion",
+        "reqExperience": 6,
+        "postTechStack": [
+            "Project Management",
+            "Agile",
+            "Scrum",
+            "Risk Management"
+        ]
+    },
+    {
+        "postId": 1,
+        "postProfile": "Java Developer",
+        "postDesc": "Must have good experience in core Java and advanced Java",
+        "reqExperience": 2,
+        "postTechStack": [
+            "Core Java",
+            "J2EE",
+            "Spring Boot",
+            "Hibernate"
+        ]
+    },
+    {
+        "postId": 2,
+        "postProfile": "Frontend Developer",
+        "postDesc": "Experience in building responsive web applications using React",
+        "reqExperience": 3,
+        "postTechStack": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ]
+    },
+    {
+        "postId": 3,
+        "postProfile": "Data Scientist",
+        "postDesc": "Strong background in machine learning and data analysis",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Python",
+            "Machine Learning",
+            "Data Analysis"
+        ]
+    },
+    {
+        "postId": 4,
+        "postProfile": "Network Engineer",
+        "postDesc": "Design and implement computer networks for efficient data communication",
+        "reqExperience": 5,
+        "postTechStack": [
+            "Networking",
+            "Cisco",
+            "Routing",
+            "Switching"
+        ]
+    },
+    {
+        "postId": 5,
+        "postProfile": "Mobile App Developer",
+        "postDesc": "Experience in mobile app development for iOS and Android",
+        "reqExperience": 3,
+        "postTechStack": [
+            "iOS Development",
+            "Android Development",
+            "Mobile App"
+        ]
+    },
+    {
+        "postId": 6,
+        "postProfile": "DevOps Engineer",
+        "postDesc": "Implement and manage continuous integration and delivery pipelines",
+        "reqExperience": 4,
+        "postTechStack": [
+            "DevOps",
+            "CI/CD",
+            "Docker",
+            "Kubernetes"
+        ]
+    },
+    {
+        "postId": 7,
+        "postProfile": "UI/UX Designer",
+        "postDesc": "Create engaging user experiences and intuitive user interfaces",
+        "reqExperience": 2,
+        "postTechStack": [
+            "User Experience",
+            "User Interface Design",
+            "Prototyping"
+        ]
+    },
+    {
+        "postId": 8,
+        "postProfile": "Cybersecurity Analyst",
+        "postDesc": "Protect computer systems and networks from cyber threats",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Cybersecurity",
+            "Network Security",
+            "Incident Response"
+        ]
+    },
+    {
+        "postId": 9,
+        "postProfile": "Full Stack Developer",
+        "postDesc": "Experience in both front-end and back-end development",
+        "reqExperience": 5,
+        "postTechStack": [
+            "JavaScript",
+            "Node.js",
+            "React",
+            "Spring",
+            "MongoDB"
+        ]
+    },
+    {
+        "postId": 10,
+        "postProfile": "Cloud Architect",
+        "postDesc": "Design and implement cloud infrastructure solutions",
+        "reqExperience": 6,
+        "postTechStack": [
+            "Cloud Computing",
+            "AWS",
+            "Azure",
+            "Google Cloud"
+        ]
+    },
+    {
+        "postId": 11,
+        "postProfile": "Software Tester",
+        "postDesc": "Ensure software quality through testing and validation",
+        "reqExperience": 3,
+        "postTechStack": [
+            "Testing",
+            "JUnit",
+            "Selenium",
+            "TestNG"
+        ]
+    },
+    {
+        "postId": 12,
+        "postProfile": "React Native Developer",
+        "postDesc": "Develop cross-platform mobile applications using React Native",
+        "reqExperience": 2,
+        "postTechStack": [
+            "React Native",
+            "JavaScript",
+            "Mobile App Development"
+        ]
+    },
+    {
+        "postId": 13,
+        "postProfile": "Business Analyst",
+        "postDesc": "Analyze business processes and recommend improvements",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Business Analysis",
+            "Requirements Gathering",
+            "Process Modeling"
+        ]
+    },
+    {
+        "postId": 14,
+        "postProfile": "Embedded Systems Engineer",
+        "postDesc": "Design and develop embedded systems for hardware applications",
+        "reqExperience": 5,
+        "postTechStack": [
+            "Embedded Systems",
+            "C/C++",
+            "Microcontrollers",
+            "RTOS"
+        ]
+    },
+    {
+        "postId": 15,
+        "postProfile": "Content Writer",
+        "postDesc": "Create engaging and informative content for websites and publications",
+        "reqExperience": 2,
+        "postTechStack": [
+            "Content Writing",
+            "Copywriting",
+            "SEO",
+            "Creative Writing"
+        ]
+    },
+    {
+        "postId": 16,
+        "postProfile": "Business Intelligence Analyst",
+        "postDesc": "Utilize data to provide insights and support decision-making",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Business Intelligence",
+            "SQL",
+            "Data Warehousing",
+            "Tableau"
+        ]
+    },
+    {
+        "postId": 17,
+        "postProfile": "UX Researcher",
+        "postDesc": "Conduct user research to inform the design process",
+        "reqExperience": 3,
+        "postTechStack": [
+            "User Research",
+            "Usability Testing",
+            "Human-Computer Interaction"
+        ]
+    },
+    {
+        "postId": 18,
+        "postProfile": "Backend Developer",
+        "postDesc": "Build server-side logic and databases for web applications",
+        "reqExperience": 4,
+        "postTechStack": [
+            "Java",
+            "Spring",
+            "Node.js",
+            "MongoDB"
+        ]
+    },
+    {
+        "postId": 19,
+        "postProfile": "Game Developer",
+        "postDesc": "Create and optimize games for various platforms",
+        "reqExperience": 3,
+        "postTechStack": [
+            "Game Development",
+            "Unity",
+            "C#",
+            "3D Modeling"
+        ]
+    },
+    {
+        "postId": 20,
+        "postProfile": "IT Project Manager",
+        "postDesc": "Lead and manage IT projects from initiation to completion",
+        "reqExperience": 6,
+        "postTechStack": [
+            "Project Management",
+            "Agile",
+            "Scrum",
+            "Risk Management"
+        ]
+    }
+]
